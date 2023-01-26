@@ -53,12 +53,13 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-![output](./img/max_marks1.jpg) 
+![image](https://user-images.githubusercontent.com/120353431/214831696-25c042b3-3f2b-450d-b220-9d3186510d8a.png)
+![image](https://user-images.githubusercontent.com/120353431/214831794-61c1a78e-c75d-4dd1-b121-569c3e42d898.png)
+![image](https://user-images.githubusercontent.com/120353431/214831953-261f38f5-e3f6-44dd-a0d6-93e08aab4075.png)
+
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/120353431/214830975-b15bcc24-dd1f-4bbd-9319-ea98836defbd.png)
-![image](https://user-images.githubusercontent.com/120353431/214831063-3476d68d-8cf7-46e2-914c-d966ed6fd48d.png)
-![image](https://user-images.githubusercontent.com/120353431/214831178-73ebc85c-d0ce-4887-94b1-6d2f8147dfc4.png)
 
 
 ## Result:
